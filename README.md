@@ -1,4 +1,4 @@
-CircuitSim CE v1.10.0
+CircuitSim CE v1.11.1
 ==================
 
 This is a fork of CircuitSim used for CS 2110 and CS 2200 at Georgia Tech.
@@ -26,6 +26,10 @@ You can execute the JAR by running `java -jar CircuitSim.jar`. You must have JDK
 
 Changelog
 =========
+
+1.11.1 (CE)
+------
+- Minor UI changes
 
 1.11.0 (CE)
 ------
